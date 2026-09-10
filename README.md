@@ -238,3 +238,6 @@ This repository serves as the official landing page for Visual Studio Code. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Visual Studio Code today!**
+
+---
+**Last updated:** 2026-09-10 05:47:25 UTC
